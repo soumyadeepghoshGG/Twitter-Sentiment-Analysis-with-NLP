@@ -1,1 +1,2 @@
 data/twitter[[:space:]]1.6million[[:space:]]tweets.csv filter=lfs diff=lfs merge=lfs -text
+models/Linear[[:space:]]SVC[[:space:]]Model.pkl filter=lfs diff=lfs merge=lfs -text
