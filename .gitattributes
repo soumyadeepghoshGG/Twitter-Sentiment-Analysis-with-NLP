@@ -1,3 +1,4 @@
 data/twitter[[:space:]]1.6million[[:space:]]tweets.csv filter=lfs diff=lfs merge=lfs -text
 models/Linear[[:space:]]SVC[[:space:]]Model.pkl filter=lfs diff=lfs merge=lfs -text
 models/Logistic[[:space:]]Regression[[:space:]]Model.pkl filter=lfs diff=lfs merge=lfs -text
+models/TfidfVectorizer(ngram_range_1-2).pkl filter=lfs diff=lfs merge=lfs -text
